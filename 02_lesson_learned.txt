@@ -14,7 +14,7 @@
 # 30.12.2020
 # - 0005: one model was not attached to support instead was stuck on FEP -> settings for clear resin is different to grey 
 # - 0005: hollowed model is full of resin -> add hole to print object, find orientation where the hole does not matter
-# - 0005: clear model got whitened 
+# - 0005: clear model got whitened, washed properly -> maybe overcure?
 #
 # 31.12.2020
 # - 0006: chicken breast on bottom side of print -> tild object 45degree if big flat surface, increase room temperature?
