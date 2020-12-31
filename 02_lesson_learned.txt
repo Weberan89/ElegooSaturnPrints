@@ -1,0 +1,23 @@
+## Lesson learned
+#####################################################################################
+#
+# 28.12.2020
+# - 0001: white surface on top of the hardened resin -> wash print with water after IPA cleaning and dry it before curing 
+# - 0001: hard to get off rooks from build plate -> add support below print object
+# - 0001: broke one rook by trying to get it off the build plate by hand -> take scraper to remove
+# - 0002: -
+#
+# 29.12.2020
+# - 0003: no bigger issue
+# - 0004: over cured -> small or thin objects need smaller amount of curing (<2 minutes)
+#
+# 30.12.2020
+# - 0005: one model was not attached to support instead was stuck on FEP -> settings for clear resin is different to grey 
+# - 0005: hollowed model is full of resin -> add hole to print object, find orientation where the hole does not matter
+# - 0005: clear model got whitened 
+#
+# 31.12.2020
+# - 0006: chicken breast on bottom side of print -> tild object 45degree if big flat surface, increase room temperature?
+# - 
+#
+#####################################################################################

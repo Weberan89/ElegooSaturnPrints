@@ -1,0 +1,34 @@
+## Changes
+
+#####################################################################################
+# 31.12.2020
+# Changed settings for supports according to Youtube - 3DPrintingPro - I've updated my insane support settings for Chitubox!!! A quick video walkthru of my new settings! - 09.05.2020
+
+# Support Light - Top
+Contact Shape: None
+Contact diameter: 0.5 -> 0.2
+Contact depth: 0.3 -> 0.1
+Connection Shape: Cone
+Upper Diameter: 0.3 -> 0.2
+Lower Diameter: 0.8 -> 1.0
+Connection Length: 2.0 -> 3.0
+
+# Support Medium - Top
+Contact Shape: None
+Contact diameter: 0.8 -> 0.4
+Contact depth: 0.4 -> 0.15
+Connection Shape: Cone
+Upper Diameter: 0.4
+Lower Diameter: 1.2 -> 1.5
+Connection Length: 2.0 -> 4.0
+
+# Support Heavy - Top
+Contact Shape: None
+Contact diameter: 1.0 -> 0.8
+Contact depth: 0.6 -> 0.4
+Connection Shape: Cone
+Upper Diameter: 0.6 -> 0.8
+Lower Diameter: 1.5
+Connection Length: 3.0 -> 3.5
+
+#####################################################################################

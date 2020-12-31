@@ -1,0 +1,20 @@
+## Print jobs
+#####################################################################################
+#
+# 28.12.2020
+# - 0001: Elegoo Saturn Rook - Anycubic Grey - USB Stick
+# - 0002: 2x flex rex - Anycubic Grey - https://www.myminifactory.com/prints/3d-print-flexy-rex-8267
+#
+# 29.12.2020
+# - 0003: One arm plate hanger - Anycubic Grey - https://www.thingiverse.com/thing:4634693
+# - 0004: Build plate aligner - Anycubic Grey - https://www.thingiverse.com/thing:4695948
+#
+# 30.12.2020
+# - 0005: Keychain smartphone holder - Anycubic Clear - https://www.thingiverse.com/thing:1587568 
+#
+# 31.12.2020
+# - 0006: Hanoi tower game - Anycubic Grey - https://www.myminifactory.com/object/3d-print-tours-de-hanoi-hanoi-towers-29030
+#
+#
+#####################################################################################
+
