@@ -1,0 +1,45 @@
+## Print settings
+# Grey_Default:
+Layer Height 0.05 mm
+Bottom layer count 5
+Transition layer count 10
+Transition type linear
+Exposure time 2.5 s
+Bottom exposure time 30 s
+Light-off delay 0 s
+Bottom light off delay 0 s
+Bottom lift distance 7 mm
+Lifting distance 7 mm
+Bottom lift speed 70 mm/min
+Lifting speed 70 mm/min
+Retract speed 210 mm/min
+
+# Grey_VROOM_v0:
+Layer Height 0.05 mm
+Bottom layer count 5
+Transition layer count 10
+Transition type linear
+Exposure time 2.5 s
+Bottom exposure time 20 s
+Light-off delay 0 s
+Bottom light off delay 0 s
+Bottom lift distance 7 mm
+Lifting distance 7 mm
+Bottom lift speed 150 mm/min
+Lifting speed 150 mm/min
+Retract speed 210 mm/min
+
+#####################################################################################
+# Date, Print-#, Resin Settings, Resin
+28.12.2020, 0001, Grey_Default, Anycubic Standard Grey
+28.12.2020, 0002, Grey_Default, Anycubic Standard Grey
+29.12.2020, 0003, Grey_Default, Anycubic Standard Grey
+29.12.2020, 0004, Grey_Default, Anycubic Standard Grey
+30.12.2020, 0005, Grey_Default, Anycubic Standard Clear
+31.12.2020, 0006, Grey_Default, Anycubic Standard Grey
+04.01.2021, 0007, Grey_Default, Anycubic Standard Grey
+05.01.2021, 0008, Grey_VROOM_v0, Anycubic Standard Grey
+05.01.2021, 0009, Grey_VROOM_v0, Anycubic Standard Grey
+05.01.2021, 0010, Grey_VROOM_v0, Anycubic Standard Grey
+08.01.2021, 0010, Grey_VROOM_v0 + Exposure Time = 3s, Anycubic Standard Grey
+#####################################################################################
