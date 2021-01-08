@@ -15,6 +15,16 @@
 # 31.12.2020
 # - 0006: Hanoi tower game - Anycubic Grey - https://www.myminifactory.com/object/3d-print-tours-de-hanoi-hanoi-towers-29030
 #
+# 04.01.2021
+# - 0007: VAT Drainer Stand - Anycubic Grey - https://www.thingiverse.com/thing:3841061
+#
+# 05.01.2021
+# - 0008: VAT Drainer Screws - Anycubic Grey - https://www.thingiverse.com/thing:3841061
+# - 0009: VAT Drainer Ground Plate - Anycubic Grey - https://www.thingiverse.com/thing:3841061 
+# - 0010: Philips DES 9700 VDP - Anycubic Grey - self created (medium supports)
+#
+# 08.01.2021
+# - 0010: Philips DES 9700 VDP - Anycubic Grey - self created - Support Version 2 (high supports)
 #
 #####################################################################################
 
