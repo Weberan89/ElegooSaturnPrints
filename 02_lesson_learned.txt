@@ -18,6 +18,21 @@
 #
 # 31.12.2020
 # - 0006: chicken breast on bottom side of print -> tild object 45degree if big flat surface, increase room temperature?
-# - 
+#
+# 04.01.2021
+# - 0007: print did not stick to supports -> maybe due to different support settings from youtuber -> change values back to default values
+#
+# 05.01.2021
+# - 0008: paused print is visible -> dont pause prints
+# - 0009: hollowed model was leading to sag of the upper layer -> support within hollowed models
+# - 0009: remove supports properly before curing -> better post cleaning
+# - 0010: print was not sticking to supports -> bigger and more supports, higher curing time
+#
+# 08.01.2021
+# - 0010: 
+#####################################################################################
+#
+# Replace FEP Film: https://youtu.be/D3LI2_m00Uk
+#
 #
 #####################################################################################
