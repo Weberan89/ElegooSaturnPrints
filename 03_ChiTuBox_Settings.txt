@@ -31,4 +31,10 @@ Upper Diameter: 0.6 -> 0.8
 Lower Diameter: 1.5
 Connection Length: 3.0 -> 3.5
 
+
+
+#####################
+# 05.01.2021
+Changed values back to default values
+
 #####################################################################################
